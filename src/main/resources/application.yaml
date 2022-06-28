@@ -1,0 +1,6 @@
+server:
+  port: 5000
+api:
+  credit-line:
+    uri:
+      base: http://localhost:5001/credit-line
